@@ -1,0 +1,6 @@
+TODO:
+
+Readme.txt
+install/uninstall app?
+renaming?
+not sure if the shortcut will maintain the Icon set through windows properties so maybe that will need adjustment
